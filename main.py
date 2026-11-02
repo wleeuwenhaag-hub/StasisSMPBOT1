@@ -3,6 +3,7 @@ import os
 import json
 import logging
 import asyncio
+from contextlib import suppress
 from datetime import datetime, timezone, timedelta
 from typing import Optional
 
