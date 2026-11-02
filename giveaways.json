@@ -1,0 +1,131 @@
+{
+    "f1bee2db": {
+        "prize": "test",
+        "winners": 2,
+        "channel_id": 1566583585337511946,
+        "host_id": 1307023189561573431,
+        "host_display": "<@1307023189561573431>",
+        "end_at": "2026-11-02T00:17:47.577789+00:00",
+        "bonus_entries": {},
+        "required_roles": [],
+        "bypass_roles": [],
+        "message_requirements": {
+            "daily": 0,
+            "weekly": 0,
+            "monthly": 0,
+            "total": 0
+        },
+        "winner_role_id": null,
+        "winner_dm": "You won **{prize}** in {server}!",
+        "image_url": "",
+        "guild_id": 1566228499679805501,
+        "entries": [
+            1307023189561573431
+        ],
+        "ended": true,
+        "created_at": "2026-11-01T23:18:14.311390+00:00",
+        "message_id": 1566592266192035963,
+        "winner_ids": [
+            1307023189561573431
+        ],
+        "ended_at": "2026-11-01T23:19:14.196206+00:00"
+    },
+    "1566594941017391205": {
+        "id": "1566594941017391205",
+        "prize": "dragon",
+        "host_id": 1307023189561573431,
+        "host_name": "wesleypei",
+        "channel_id": 1566583585337511946,
+        "guild_id": 1566228499679805501,
+        "winners": 10,
+        "end_time": "2026-11-02T00:28:52.343731+00:00",
+        "entries": [],
+        "ended": true,
+        "ended_at": 1793576393.7269304,
+        "previous_winners": []
+    },
+    "1566596180970967070": {
+        "id": "1566596180970967070",
+        "guild_id": 1566228499679805501,
+        "channel_id": 1566583585337511946,
+        "message_id": 1566596183290282108,
+        "host_id": 1307023189561573431,
+        "prize": "1",
+        "winners": 10,
+        "ends_at": "2026-11-01T23:35:44.128990+00:00",
+        "entries": {},
+        "ended": true,
+        "extra_entries": 0,
+        "required_roles": [],
+        "bypass_roles": [],
+        "daily_messages": 0,
+        "weekly_messages": 0,
+        "monthly_messages": 0,
+        "total_messages": 0,
+        "winner_role": null,
+        "winner_dm": null,
+        "image_url": null,
+        "previous_winners": []
+    },
+    "1566596846661541948": {
+        "id": "1566596846661541948",
+        "guild_id": 1566228499679805501,
+        "channel_id": 1566583585337511946,
+        "message_id": 1566596850205724713,
+        "host_id": 1307023189561573431,
+        "prize": "dragon",
+        "winners": 1,
+        "ends_at": "2026-11-01T23:37:27.187510+00:00",
+        "entries": {
+            "1307023189561573431": 1
+        },
+        "ended": true,
+        "extra_entries": 0,
+        "required_roles": [],
+        "bypass_roles": [],
+        "daily_messages": 0,
+        "weekly_messages": 0,
+        "monthly_messages": 0,
+        "total_messages": 0,
+        "winner_role": null,
+        "winner_dm": null,
+        "image_url": null,
+        "previous_winners": [
+            1307023189561573431
+        ]
+    },
+    "1793576664407629": {
+        "id": "1793576664407629",
+        "guild_id": 1566228499679805501,
+        "channel_id": 1566583585337511946,
+        "message_id": 1566598852134305914,
+        "host_id": 1307023189561573431,
+        "title": "\ud83c\udf89 GIVEAWAY \ud83c\udf89",
+        "description": "yes yes",
+        "prize": "dragon1",
+        "colour": "#FFD700",
+        "image_url": "",
+        "winners": 2,
+        "extra_entries": 0,
+        "required_roles": [],
+        "bypass_roles": [],
+        "daily_messages": 0,
+        "weekly_messages": 0,
+        "monthly_messages": 0,
+        "total_messages": 0,
+        "winner_role": null,
+        "winner_dm": "Congratulations! You won **{prize}**!",
+        "created_at": 1793576664.4074233,
+        "ends_at": 1793576756.1717825,
+        "ended": true,
+        "entries": {
+            "1307023189561573431": {
+                "joined_at": 1793576667.4562511
+            }
+        },
+        "previous_winners": [
+            1307023189561573431
+        ],
+        "ended_at": 1793576758.1014261
+    }
+}
